@@ -42,6 +42,7 @@ Pokud používáš některou z populárních distribucí Linuxu jako Ubuntu, Lin
 ## Visual Studio Code
 ### Windows
 Pokud máš počítač s Windows, následuj tyto kroky:
+
     1. Z [tohoto odkazu](https://aka.ms/win32-x64-user-stable) si stáhni Visual Studio Code.
     
     2. Stažený soubor spusť. Rozběhne se průvodce instalací, ve kterém stačí klikat na *Next* tak dlouho, dokud se nespustí instalace. Ve druhém kroku je pouze potřeba souhlasit s licencí.
@@ -50,12 +51,14 @@ Pokud máš počítač s Windows, následuj tyto kroky:
 
 ### Mac OS
 Pokud máš počítač s Mac OS, následuj tyto kroky:
+
     1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *Download Mac ...*).
     
     2. Spusť instalaci a následuj ji až do zdařilého konce.
 
 ### Linux
 Pokud máš počítač s Linuxem, následuj tyto kroky:
+
     1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *.deb* pro Debian/Ubuntu, nebo *.rpm* pro Red Hat/Fedora).
     
     2. Spusť instalaci a následuj ji až do zdařilého konce.
