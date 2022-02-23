@@ -27,7 +27,7 @@ Pokud máš počítač s Windows, následuj tyto kroky:
 3. Na úvodní obrazovce je **velmi důležité** zaškrtnout volbu *Add Python 3.9 to PATH* (viz obrázek)
 ![Instalace](img/python-instalace-win.jpeg)
 
-4. Klikněte na *Install Now*, odsouhlaste případné otázky ohledně změn na vašem počítači a vyčkejte dokončení instalace. Jakmile instalace skončí, zavřete okno tlačítkem *Close*.
+4. Klikni na *Install Now*, odsouhlas případné otázky ohledně změn na vašem počítači a vyčkej dokončení instalace. Jakmile instalace skončí, zavři okno tlačítkem *Close*.
 
 5. Pro jistotu restartuj počítač, aby se provedené změny správně usadily.
 
