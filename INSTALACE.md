@@ -43,25 +43,25 @@ Pokud používáš některou z populárních distribucí Linuxu jako Ubuntu, Lin
 ### Windows
 Pokud máš počítač s Windows, následuj tyto kroky:
 
-    1. Z [tohoto odkazu](https://aka.ms/win32-x64-user-stable) si stáhni Visual Studio Code.
+1. Z [tohoto odkazu](https://aka.ms/win32-x64-user-stable) si stáhni Visual Studio Code.
+
+2. Stažený soubor spusť. Rozběhne se průvodce instalací, ve kterém stačí klikat na *Next* tak dlouho, dokud se nespustí instalace. Ve druhém kroku je pouze potřeba souhlasit s licencí.
     
-    2. Stažený soubor spusť. Rozběhne se průvodce instalací, ve kterém stačí klikat na *Next* tak dlouho, dokud se nespustí instalace. Ve druhém kroku je pouze potřeba souhlasit s licencí.
-    
-    3. Jakmile instalace doběhne, zavřete okno tlačítkem Finish. Visual Studio Code by se mělo samo spustit ihned po instalaci.
+3. Jakmile instalace doběhne, zavřete okno tlačítkem Finish. Visual Studio Code by se mělo samo spustit ihned po instalaci.
 
 ### Mac OS
 Pokud máš počítač s Mac OS, následuj tyto kroky:
 
-    1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *Download Mac ...*).
-    
-    2. Spusť instalaci a následuj ji až do zdařilého konce.
+1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *Download Mac ...*).
+
+2. Spusť instalaci a následuj ji až do zdařilého konce.
 
 ### Linux
 Pokud máš počítač s Linuxem, následuj tyto kroky:
 
-    1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *.deb* pro Debian/Ubuntu, nebo *.rpm* pro Red Hat/Fedora).
-    
-    2. Spusť instalaci a následuj ji až do zdařilého konce.
+1. Na [oficiální stránce](https://code.visualstudio.com/) si stáhni Visual Studio Code (modré tlačítko *.deb* pro Debian/Ubuntu, nebo *.rpm* pro Red Hat/Fedora).
+
+2. Spusť instalaci a následuj ji až do zdařilého konce.
 
 ## Nastavení VS Code
 Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusťte VS Code a z horního menu vyberte **View → Command Palette...**. Do textového políčka zkopírujte tento text:
