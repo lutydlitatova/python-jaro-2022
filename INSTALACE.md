@@ -19,22 +19,24 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
 ## Python
 ### Windows
 Pokud máš počítač s Windows, následuj tyto kroky:
-    1. Ujisti se, že máš aktualizovaný systém. To zajistíš nejjednodušeji tak, že svůj počítač restartuješ.
 
-    2. Stáhni si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe). Stažený soubor spusť. Rozběhne se průvodce instalací.
-    
-    3. Na úvodní obrazovce je **velmi důležité** zaškrtnout volbu *Add Python 3.9 to PATH* (viz obrázek)
-    ![Instalace](img/python-instalace-win.jpeg)
-    
-    4. Klikněte na *Install Now*, odsouhlaste případné otázky ohledně změn na vašem počítači a vyčkejte dokončení instalace. Jakmile instalace skončí, zavřete okno tlačítkem *Close*.
-    
-    5. Pro jistotu restartuj počítač, aby se provedené změny správně usadily.
+1. Ujisti se, že máš aktualizovaný systém. To zajistíš nejjednodušeji tak, že svůj počítač restartuješ.
+
+2. Stáhni si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe). Stažený soubor spusť. Rozběhne se průvodce instalací.
+
+3. Na úvodní obrazovce je **velmi důležité** zaškrtnout volbu *Add Python 3.9 to PATH* (viz obrázek)
+![Instalace](img/python-instalace-win.jpeg)
+
+4. Klikněte na *Install Now*, odsouhlaste případné otázky ohledně změn na vašem počítači a vyčkejte dokončení instalace. Jakmile instalace skončí, zavřete okno tlačítkem *Close*.
+
+5. Pro jistotu restartuj počítač, aby se provedené změny správně usadily.
 
 ### Mac OS
 Pokud máš počítač s Mac OS, je velmi pravděpodobné, že už máš Python nainstalovaný. Ověř si instalaci.
-    1. Pokud ti Python chybí, stáhní si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-macos11.pkg).
 
-    2. Stažený soubor spusť a pokračuj dle pokynů instalace až do jejího konce.
+1. Pokud ti Python chybí, stáhní si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-macos11.pkg).
+
+2. Stažený soubor spusť a pokračuj dle pokynů instalace až do jejího konce.
 
 ### Linux
 Pokud používáš některou z populárních distribucí Linuxu jako Ubuntu, Linux Mint apod., je velmi pravděpodobné, že už máš Python nainstalovaný. Ověř si instalaci.
