@@ -15,6 +15,8 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
   - [Linux](#linux)
 
 3. [Nastavení VS Code](#nastaven%C3%AD-vs-code)
+4. [Ověření instalace Pythonu](#ov%C4%9B%C5%99en%C3%AD-instalace-pythonu)
+5. [Rozšíření VS Code pro Python](#roz%C5%A1%C3%AD%C5%99en%C3%AD-vs-code-pro-python)
 
 ## Python
 ### Windows
