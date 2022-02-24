@@ -4,12 +4,12 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
 > V této sekci z velké části využíváme existujících instalačních návodů ze stránky https://kodim.cz/czechitas/uvod-do-progr/priprava/jazyky-nastroje , s mírnými úpravami.
 
 ## Obsah
-1. [Python](#python)
+1. [Instalace jazyka Python](#instalace-jazyka-python)
   - [Windows](#windows)
   - [Mac OS](#mac-os)
   - [Linux](#linux)
 
-2. [Visual Studio Code](#visual-studio-code)
+2. [Instalace editoru Visual Studio Code](#instalace-editoru-visual-studio-code)
   - [Windows](#windows)
   - [Mac OS](#mac-os)
   - [Linux](#linux)
@@ -18,7 +18,7 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
 4. [Ověření instalace Pythonu](#ov%C4%9B%C5%99en%C3%AD-instalace-pythonu)
 5. [Rozšíření VS Code pro Python (nepovinné)](#roz%C5%A1%C3%AD%C5%99en%C3%AD-vs-code-pro-python-nepovinn%C3%A9)
 
-## Python
+## Instalace jazyka Python
 ### Windows
 Pokud máš počítač s Windows, následuj tyto kroky:
 
@@ -27,7 +27,7 @@ Pokud máš počítač s Windows, následuj tyto kroky:
 2. Stáhni si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe). Stažený soubor spusť. Rozběhne se průvodce instalací.
 
 3. Na úvodní obrazovce je **velmi důležité** zaškrtnout volbu *Add Python 3.9 to PATH* (viz obrázek)
-![Instalace](img/python-instalace-win.jpeg)
+![Instalace Pythonu na Windows](img/python-instalace-win.jpeg)
 
 4. Klikni na *Install Now*, odsouhlas případné otázky ohledně změn na vašem počítači a vyčkej dokončení instalace. Jakmile instalace skončí, zavři okno tlačítkem *Close*.
 
@@ -43,7 +43,7 @@ Pokud máš počítač s Mac OS, je velmi pravděpodobné, že už máš Python 
 ### Linux
 Pokud používáš některou z populárních distribucí Linuxu jako Ubuntu, Linux Mint apod., je velmi pravděpodobné, že už máš Python nainstalovaný. Ověř si instalaci.
 
-## Visual Studio Code
+## Instalace editoru Visual Studio Code
 ### Windows
 Pokud máš počítač s Windows, následuj tyto kroky:
 
@@ -97,13 +97,19 @@ Pokud jste na Windows, napište do okna, které se objeví, toto:
 ```
 python
 ```
-a stiskněte enter. Pokud jste na Macu nebo Linuxu, může být třeba napsat
+a stiskněte enter. Pokud jste na Macu nebo Linuxu, může být potřeba napsat
 ```
 python3
 ```
 Pokud je vše v pořádku, měly by se po pár krypticky vypadajících výpisech ukázat tři zobáčky `>>>` a kurzor. To znamená, že Python je na vás připraven.
 
 ## Rozšíření VS Code pro Python (nepovinné)
-TODO
+Pro jednodušší spouštění programů a automatickou kontrolu syntaxe Pythonu ve VS Code si můžeš nainstalovat rozšíření.
 
+![Instalace rozšíření](https://code.visualstudio.com/assets/docs/editor/extension-marketplace/extensions-python.png)
 
+1. Na levé liště editoru VS Code klikni na ikonu "kostek", nebo v horní liště vyber **View → Extensions**
+
+2. Do zobrazeného vyhledávacího pole zadej "python"
+
+3. Jako jeden z prvních výsledků se ti zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstaluj kliknutím na tlačítko **Install**.
