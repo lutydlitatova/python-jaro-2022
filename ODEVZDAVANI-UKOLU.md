@@ -1,5 +1,12 @@
 # Jak na GitHub a odevzdávání úkolů
 
+## Obsah
+1. [Jak na GitHub](#jak-na-github)
+2. [Přidání kouče do repozitáře](#p%C5%99id%C3%A1n%C3%AD-kou%C4%8De-do-repozit%C3%A1%C5%99e)
+3. [Odevzdávání úkolů](#odevzd%C3%A1v%C3%A1n%C3%AD-%C3%BAkol%C5%AF)
+
+Ověř, že máš hotové všechny [instalace](./INSTALACE.md), včetně sekce *Instalace a nastavení Gitu*.
+
 ## Jak na GitHub
 
 ### Vytvoření repozitáře
