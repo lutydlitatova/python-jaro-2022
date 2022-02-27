@@ -1,10 +1,16 @@
-# Kurz programování v Pythonu, jaro 2022
+# Kurz programování v Pythonu, jaro 2022 :snake:
 
 ## Instalace
 Návod na instalace nástrojů pro kurz najdete [zde](./INSTALACE.md).
 
 ## Odevzdávání úkolů
 Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
+
+* Na každý úkol je 14 dní na vypracování. Termín je stanovený zejména proto, aby se úkoly k vypracování nehromadily ani pro vás, 
+kdo je vypracováváte, ani pro vás, kdo je opravujete.
+
+* Výjimka je pro úkol z první lekce, jehož hlavním cílem je vyzkoušet si systém odevzdávání. Pokud můžeš, odevzdej ho (alespoň jeho testovací verzi)
+prosím do začátku druhé lekce.
 
 ## Lekce
 
