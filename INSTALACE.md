@@ -14,9 +14,10 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
   - [Mac OS](#mac-os)
   - [Linux](#linux)
 
-3. [Nastavení VS Code](#nastaven%C3%AD-vs-code)
+3. [Nastavení VS Code (nepovinné)](#nastaven%C3%AD-vs-code-nepovinn%C3%A9)
 4. [Ověření instalace Pythonu](#ov%C4%9B%C5%99en%C3%AD-instalace-pythonu)
 5. [Rozšíření VS Code pro Python (nepovinné)](#roz%C5%A1%C3%AD%C5%99en%C3%AD-vs-code-pro-python-nepovinn%C3%A9)
+6. [Instalace Gitu](#instalace-gitu)
 
 ## Instalace jazyka Python
 ### Windows
@@ -51,7 +52,7 @@ Pokud máš počítač s Windows, následuj tyto kroky:
 
 2. Stažený soubor spusť. Rozběhne se průvodce instalací, ve kterém stačí klikat na *Next* tak dlouho, dokud se nespustí instalace. Ve druhém kroku je pouze potřeba souhlasit s licencí.
     
-3. Jakmile instalace doběhne, zavřete okno tlačítkem Finish. Visual Studio Code by se mělo samo spustit ihned po instalaci.
+3. Jakmile instalace doběhne, zavři okno tlačítkem Finish. Visual Studio Code by se mělo samo spustit ihned po instalaci.
 
 ### Mac OS
 Pokud máš počítač s Mac OS, následuj tyto kroky:
@@ -67,14 +68,14 @@ Pokud máš počítač s Linuxem, následuj tyto kroky:
 
 2. Spusť instalaci a následuj ji až do zdařilého konce.
 
-## Nastavení VS Code
-Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusťte VS Code a z horního menu vyberte **View → Command Palette...**. Do textového políčka zkopírujte tento text:
+## Nastavení VS Code (nepovinné)
+Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusť VS Code a z horního menu vyber **View → Command Palette...**. Do textového políčka zkopíruj tento text:
 
 ```
 Open Settings (JSON)
 ```
-a stiskněte enter.
-Otevře se okno s editorem. Do jeho pravé časti vložte tento text (přepište cokoliv, co v editoru bylo dosud):
+a stiskni enter.
+Otevře se okno s editorem. Do jeho pravé časti vlož tento text (přepiš cokoliv, co v editoru bylo dosud):
 
 ```json
 {
@@ -89,15 +90,15 @@ Otevře se okno s editorem. Do jeho pravé časti vložte tento text (přepište
 }
 ```
 
-a uložte stiskem Ctrl+S nebo z menu vyberte **File → Save**.
+a ulož stiskem Ctrl+S nebo z menu vyber **File → Save**.
 
 ## Ověření instalace Pythonu
-Ať už jste na jakémkoliv operačním systému, spusťte Visual Studio Code a z horní lišty vyberte **Terminal → New Terminal**. 
-Pokud jste na Windows, napište do okna, které se objeví, toto:
+Ať už jsi na jakémkoliv operačním systému, spusť Visual Studio Code a z horní lišty vyber **Terminal → New Terminal**. 
+Pokud jsi na Windows, napiš do okna, které se objeví, toto:
 ```
 python
 ```
-a stiskněte enter. Pokud jste na Macu nebo Linuxu, může být potřeba napsat
+a stiskni enter. Pokud jsi na Macu nebo Linuxu, může být potřeba napsat
 ```
 python3
 ```
@@ -112,4 +113,37 @@ Pro jednodušší spouštění programů a automatickou kontrolu syntaxe Pythonu
 
 2. Do zobrazeného vyhledávacího pole zadej "python"
 
-3. Jako jeden z prvních výsledků se ti zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstaluj kliknutím na tlačítko **Install**.
+3. Jako jeden z prvních výsledků se ti zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstaluj kliknutím na tlačítko **Install** (pokud se ti tlačítko nezobrazuje, rozšíření už pravděpodobně máš nainstalované.).
+
+## Instalace a nastavení Gitu
+Pro odevzdávání úkolů na úložiště GitHub budeme využívat systém Git.
+
+1. Git si stáhni z [tohoto odkazu](https://git-scm.com/downloads) (modré tlačítko vpravo *Download for ...*). Víceméně se můžeš proklikat nastavením až na závěr.
+
+2. Otevři Visual Studio Code, a z horní lišty vyber **Terminal → New Terminal**. 
+
+3. Do terminálu napiš následující řádku: `git config --global user.name "Moje Jmeno"`, akorát `Moje Jmeno` nahraď tvým jménem (nemusí být s příjmením).
+Například:
+```
+git config --global user.name "Jana Mala"
+```
+nebo:
+```
+git config --global user.name "Jana M."
+```
+A stiskni enter. 
+
+Na Windows by to mělo vypada asi takhle (a na jiných operačních systémech velice podobně):
+![Nastavení Gitu](./img/git-config.png)
+
+4. Podobně zadej e-mail:
+`git config --global user.email "email"`, akorát `email` nahraď tvým emailem.
+Například:
+```
+git config --global user.email "jana.email@mujmail.com"
+```
+nebo:
+```
+git config --global user.email "jana@mujmail.com"
+```
+A stiskni enter.
