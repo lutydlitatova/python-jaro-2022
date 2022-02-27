@@ -1,4 +1,4 @@
-# python-jaro-2022
+# Kurz programování v Pythonu, jaro 2022
 
 ## Instalace
 Návod na instalace nástrojů pro kurz najdete [zde](./INSTALACE.md).
