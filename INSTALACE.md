@@ -17,7 +17,7 @@ V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org
 3. [Nastavení VS Code (nepovinné)](#nastaven%C3%AD-vs-code-nepovinn%C3%A9)
 4. [Ověření instalace Pythonu](#ov%C4%9B%C5%99en%C3%AD-instalace-pythonu)
 5. [Rozšíření VS Code pro Python (nepovinné)](#roz%C5%A1%C3%AD%C5%99en%C3%AD-vs-code-pro-python-nepovinn%C3%A9)
-6. [Instalace Gitu](#instalace-gitu)
+6. [Instalace a nastavení Gitu](#instalace-a-nastaven%C3%AD-gitu)
 
 ## Instalace jazyka Python
 ### Windows
