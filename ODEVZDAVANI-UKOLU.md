@@ -23,7 +23,7 @@ Ověř, že máš hotové všechny [instalace](./INSTALACE.md), včetně sekce *
 
 ### Jak propojit repozitář na GitHubu s VS Code
 
-1. Otevři VS Code. Klikni na ikonu papírů v levé liště a pak na *Clone Repository*:
+1. Otevři VS Code. Pokud už je otevřené, zadej na horní liště *File → New Window*, aby se ti otevřelo úplně nově. Klikni na ikonu papírů v levé liště a pak na *Clone Repository*:
 <img src="./img/clone-repository.png" width="400">
 
 2. Klikni na *Clone from GitHub*:
