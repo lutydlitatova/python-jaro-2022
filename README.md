@@ -16,7 +16,7 @@ prosím do začátku druhé lekce.
 
 |    | Datum     | Téma           | Odkaz na lekci                                                           | Odkaz na úkol
 | -- | --------- | -------------- | ------------------------------------------------------------------------ | -------------
-| 1  | 28.2.2022 | Úvod, Slovníky | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky | 
+| 1  | 28.2.2022 | Úvod, Slovníky | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky | [ukol-01](./ukoly/ukol-01.md)
 | 2  | 7.3.2022  |  | | 
 | 3  | 14.3.2022 |  | | 
 | 4  | 21.3.2022 |  | | 
