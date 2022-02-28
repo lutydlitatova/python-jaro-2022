@@ -120,7 +120,7 @@ Pro odevzdávání úkolů na úložiště GitHub budeme využívat systém Git.
 
 1. Git si stáhni z [tohoto odkazu](https://git-scm.com/downloads) (modré tlačítko vpravo *Download for ...*). Víceméně se můžeš proklikat nastavením až na závěr.
 
-2. Otevři Visual Studio Code, a z horní lišty vyber **Terminal → New Terminal**. 
+2. Pokud máš otevřené Visual Studio, tak ho restartuj zavřením programu a opětovným otevřením. Ve Visual Studiu z horní lišty vyber **Terminal → New Terminal**. 
 
 3. Do terminálu napiš následující řádku: `git config --global user.name "Moje Jmeno"`, akorát `Moje Jmeno` nahraď tvým jménem (nemusí být s příjmením).
 Například:
