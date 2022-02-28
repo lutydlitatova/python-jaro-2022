@@ -133,7 +133,7 @@ git config --global user.name "Jana M."
 ```
 A stiskni enter. 
 
-Na Windows by to mělo vypada asi takhle (a na jiných operačních systémech velice podobně):
+Na Windows by to mělo vypadat asi takhle (a na jiných operačních systémech velice podobně):
 ![Nastavení Gitu](./img/git-config.png)
 
 4. Podobně zadej e-mail:
