@@ -71,3 +71,4 @@ Jakmile máme vytvořený repozitář na GitHubu a jeho kopii ve VS Code, může
 <img src="./img/issues-2.png" width="800">
 
 3. Pak zadej kouče v sekci *Assignees* kliknutím na ozubené kolečko, aby koučovi nebo koučce přišlo upozornění, že je odevzdaný nový úkol. Akci dokončíš kliknutím na *Submit new issue*. Hotovo! :tada:
+* > Pokud se ti v *Assignees* nezobrazuje jméno kouče, patrně zatím nepotvrdil/a přidání do tvého repozitáře. Zkus se jim připomenout na Slacku.
