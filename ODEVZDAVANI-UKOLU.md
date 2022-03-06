@@ -32,7 +32,7 @@ Ověř, že máš hotové všechny [instalace](./INSTALACE.md), včetně sekce *
 3. V prohlížeči potvrď autorizaci a případně zadej své GitHub přihlašovací údaje:
 <img src="./img/authorize-vs-code.png" width="600">
 
-4. Při návratu do VS Code by teď mělo být možné vybrat tvůj repozitář. Klikni na jeho název, a vyber umístění v rámci tvého systému, kam se repozitář stáhne. Složku s repoitářem můžeš rovnou otevřít (možnost *Open*).
+4. Při návratu do VS Code by teď mělo být možné vybrat tvůj repozitář. Klikni na jeho název, a vyber umístění v rámci tvého systému, kam se repozitář stáhne. Složku s repozitářem můžeš rovnou otevřít (možnost *Open*).
 <img src="./img/open-cloned-repository.png" width="400">
 
 Hurá, máš propojený repozitář na GitHubu s jeho lokální verzí u tebe na počítači. :tada: Od teď už nemusíš výše uvedené kroky opakovat. Když budeš chtít pracovat na úkolu, otevři si Visual Studio a pak pomocí *Open Folder* otevři složku s tvým repozitářem.
