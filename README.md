@@ -14,11 +14,11 @@ prosím do začátku druhé lekce.
 
 ## Lekce
 
-|    | Datum     | Téma           | Odkaz na lekci                                                           | Odkaz na úkol
-| -- | --------- | -------------- | ------------------------------------------------------------------------ | -------------
-| 1  | 28.2.2022 | Úvod, Slovníky | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky | [ukol-01](./ukoly/ukol-01.md)
-| 2  | 7.3.2022  |  | | 
-| 3  | 14.3.2022 |  | | 
+|    | Datum     | Téma             | Odkaz na lekci                                                           | Odkaz na úkol
+| -- | --------- | ---------------- | ------------------------------------------------------------------------ | -------------
+| 1  | 28.2.2022 | Úvod, Slovníky   | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky | [ukol-01](./ukoly/ukol-01.md)
+| 2  | 7.3.2022  | Slovníky a cykly | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly | [ukol-02](./ukoly/ukol-02.md)
+| 3  | 14.3.2022 | Funkce           | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/funkce   | 
 | 4  | 21.3.2022 |  | | 
 | 5  | 28.3.2022 |  | | 
 | 6  | 4.4.2022  |  | | 
