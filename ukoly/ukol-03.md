@@ -17,7 +17,7 @@ vypíše chybu, v opačném případě se zeptá na text zprávy a pomocí druh�
 vypíše uživateli.
 
 ## Nápověda
-Pokud chcete zkontrolovat předvolbu, stačí využít podmínku`"+420 in cislo`, alternativně můžete využít
+Pokud chcete zkontrolovat předvolbu, stačí využít podmínku`+420 in cislo`, alternativně můžete využít
 indexy: Python umožňuje kromě jednoho znaku z řetězce získat i více znaků, a to
 pomocí dvojtečky. Pokud budete chtít získat první čtyři znaky, napište `cislo[0:4]`. Pak můžete vytvořit podmínku
 `cislo[0:4] == "+420"`.
