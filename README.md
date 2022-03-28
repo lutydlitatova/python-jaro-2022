@@ -20,7 +20,7 @@ prosím do začátku druhé lekce.
 | 2  | 7.3.2022  | Slovníky a cykly | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/slovniky-a-cykly | [ukol-02](./ukoly/ukol-02.md)
 | 3  | 14.3.2022 | Funkce           | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/funkce   | [ukol-03](./ukoly/ukol-03.md)
 | 4  | 21.3.2022 | Třídy            | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/tridy    | [ukol-04](./ukoly/ukol-04.md)
-| 5  | 28.3.2022 | Třídy a dědičnost| https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/dedicnost | 
+| 5  | 28.3.2022 | Třídy a dědičnost| https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/dedicnost | [ukol-05](./ukoly/ukol-05.md)
 | 6  | 4.4.2022  |  | | 
 | 7  | 11.4.2022 |  | | 
 | 8  | 25.4.2022 |  | | 
