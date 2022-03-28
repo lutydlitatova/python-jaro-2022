@@ -8,7 +8,7 @@ Uvažuj, že vyvíjíš software pro službu, která nabízí streamování vide
 - Třída `Serial` bude potomkem třídy `Polozka`. Má kromě názvu a žánru atributy počet epizod a délka epizody.
 - Všem třídám přidej funkci `get_info`, která vypíše informace o položce, resp. o filmu a seriálu. Funkce u třídy `Polozka` vypíše název a žánr. Následně tuto funkci využij ve funkcích u tříd `Film` a `Serial` a přidej k ní informaci o délce, resp. počtu episod.
 
-Po naprogramování si vytvoř alespoň jeden objekt reprezentující film a seriál o ověr, že vše funguje.
+Po naprogramování si vytvoř alespoň jeden objekt reprezentující film a seriál a ověř, že vše funguje.
 
 ---
 
