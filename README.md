@@ -22,7 +22,7 @@ prosím do začátku druhé lekce.
 | 4  | 21.3.2022 | Třídy            | https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/tridy    | [ukol-04](./ukoly/ukol-04.md)
 | 5  | 28.3.2022 | Třídy a dědičnost| https://kodim.cz/czechitas/progr2-python/zaklady-programovani-2/dedicnost | [ukol-05](./ukoly/ukol-05.md)
 | 6  | 4.4.2022  | Chroustání seznamů, Čtení ze souboru | https://kodim.cz/czechitas/python-data/zaklady-programovani/text-chroustani/#chroustani-seznamu, https://kodim.cz/czechitas/python-data/zaklady-programovani/soubory/#cteni-ze-souboru | [ukol-06](./ukoly/ukol-06.md)
-| 7  | 11.4.2022 | Regulární výrazy, Zápis do souboru | https://kodim.cz/czechitas/progr2-python/python-pro-data-2/regularni-vyrazy, https://kodim.cz/czechitas/python-data/zaklady-programovani/soubory/#zapis-do-souboru | 
+| 7  | 11.4.2022 | Regulární výrazy, Zápis do souboru | https://kodim.cz/czechitas/progr2-python/python-pro-data-2/regularni-vyrazy, https://kodim.cz/czechitas/python-data/zaklady-programovani/soubory/#zapis-do-souboru | [ukol-07](./ukoly/ukol-07.md)
 | 8  | 25.4.2022 | Datum a čas | | 
 | 9  | 2.5.2022  |  | | 
 | 10 | 9.5.2022  |  | | 
