@@ -2,7 +2,7 @@
 
 Česká pošta má [stránku na webu](https://www.ceskaposta.cz/rady-a-navody/jak-spravne-nadepsat-zasilku), která radí, jak správně nadepsat zásilku. Uvádí i několik vzorů pro české i zahraniční zásilky.
 
-V souboru [posta.html](https://raw.githubusercontent.com/lutydlitatova/python-jaro-2022/main/ukoly/data/posta.html) nalezneš zdrojový kód této stránky v html. 
+V souboru [posta.html](https://raw.githubusercontent.com/lutydlitatova/python-jaro-2022/main/ukoly/data/posta.html) nalezneš zdrojový kód této stránky v HTML (to je značkovací jazyk, ve kterém jsou napsané některé webové stránky, nebo části některých webových stránek.). 
 
 1. Soubor si načti do proměnné tak, aby se celý jeho obsah nacházel jako jeden řetězec v proměnné. Můžeš využít metodu `read()` (doplň název souboru a název své proměnné):
 
@@ -15,7 +15,7 @@ with open(<nazev-souboru>, encoding='utf-8') as vstup:
 
 3. Nahraď po sobě jdoucích víc mezer jedinou mezerou: Sestav regulární výraz, který označuje jednu nebo více mezer. Pak pomocí `re.sub()` nahraď takové sekvence jedinou mezerou. První parametr metody `re.sub()` je regulární výraz, který nahrazujeme, druhý parametr je řetězec, který nahrazujeme, a třetí parametr je řetězec, ve kterém nahrazujeme.
 
-Příklad:
+Příklad použití metody `re.sub`:
 
 ```py
 print(re.sub('123?', 'X', 'ABC12ABCD1234'))  # ABCXABCDX4
