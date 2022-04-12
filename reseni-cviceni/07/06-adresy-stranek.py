@@ -8,7 +8,6 @@ Určitě ale sleduj i web https://www.czechitas.cz a přihlašuj se na naše kur
 
 
 regex_email = re.compile(r"https?://(?:w{3}\.)?(?:[a-z]+\.)+(?:com|org|cz)")
-emaily = [email + '\n' for email in regex_email.findall(rady)]
+emaily = regex_email.findall(rady)
 
-with open('adresy.txt', 'w') as vystup:
-    vystup.writelines(emaily)
+print(emaily)
