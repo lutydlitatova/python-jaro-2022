@@ -4,7 +4,7 @@ Stáhni si [dataset](https://raw.githubusercontent.com/lutydlitatova/czechitas-d
 
 * Data si načti pomocí metody `pandas.read_csv()`. Pozor, nastav oddělovač na znak středníku. Využij parametr `sep`.
 
-* Seznam se s daty. Kolik má tabulka řádek a slopuců? Jak se sloupce jmenují?
+* Seznam se s daty. Kolik má tabulka řádek a sloupců? Jak se sloupce jmenují?
 
 * Které zvíře se nachází na záznamu s indexem 34? Vypiš pomocí `iloc` název tohoto zvířete v češtině i angličtině.
 
