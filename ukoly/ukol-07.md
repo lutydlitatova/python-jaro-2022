@@ -21,7 +21,7 @@ Příklad použití metody `re.sub`:
 print(re.sub('123?', 'X', 'ABC12ABCD1234'))  # ABCXABCDX4
 ```
 
-4. Najdi v datech všechna česká a slovenská města a jejich PSČ, která se nacházejí v ukázkových adresách. Mají format `PSČ MĚSTO`, kde `PSČ` se skládá ze tří číslic, mezery a dvou číslic, a `MĚSTO` se skládá z jednoho nebo více slov oddělených mezerou, za kterými může ještě následovat číslo pošty. 
+4. Najdi v datech všechna česká a slovenská města a jejich PSČ, která se nacházejí v ukázkových adresách. Mají format `PSČ MĚSTO`, kde `PSČ` se skládá ze tří číslic, mezery a dvou číslic, a `MĚSTO` se skládá z jednoho, dvou nebo tří slov oddělených mezerou, za kterými může ještě následovat číslo pošty. 
 
 Například:
 
@@ -30,3 +30,4 @@ Například:
 512 11 VYSOKÉ NAD JIZEROU
 ```
 
+Celkově je potřeba identifikovat 17 adres.
