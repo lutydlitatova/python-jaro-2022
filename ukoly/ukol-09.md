@@ -12,7 +12,7 @@ Stáhni si [dataset](https://raw.githubusercontent.com/lutydlitatova/czechitas-d
 
 V lekci jsme zmínili, že existují i jiné typy indexů, než jen číselný, který sám vyrobí `pandas`. Například v kontextu souboru se zvířaty se nabízí hned několik sloupců, které bychom mohli využít jako index, které nejsou číselné. 
 
-* Načti znovu data, ale tentokrát nastav parametr `index_col` na hodnotu sloupce, který obsahuje název zvířete v češtině. Všimni si, že sloupec teď povýší na index a už se nenachází mezi "běžnými" sloupci.
+* Načti znovu data, ale tentokrát nastav parametr `index_col` na název sloupce, který obsahuje název zvířete v češtině. Všimni si, že sloupec teď povýší na index a už se nenachází mezi "běžnými" sloupci.
 
 * Pomocí `<tvoje-promenna>.index.is_unique` ověř, zda je nový index unikátní.
 
