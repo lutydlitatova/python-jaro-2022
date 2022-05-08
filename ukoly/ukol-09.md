@@ -1,4 +1,4 @@
-# ukol-08: Adopce zvířat
+# ukol-09: Adopce zvířat
 
 Stáhni si [dataset](https://raw.githubusercontent.com/lutydlitatova/czechitas-datasets/main/datasets/adopce-zvirat.csv), který obsahuje seznam zvířat k adopci v ZOO Praha. Zdroj dat je [Národní katalog otevřených dat](https://data.gov.cz/).
 
