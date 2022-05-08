@@ -34,6 +34,6 @@ Pokračuj ve své práci s informacemi o průměrných teplotách. Pokud jsi zpr
 
 Napiš následující dotazy:
 
-1. Dotaz na řádky z 13. listopadu 2017 (sloupec `Day` musí mít hodnotu 13).
-1. Dotaz na řádky z 13. listopadu 2017 ze Spojených států amerických (sloupec `Day` musí mít hodnotu 13 a sloupec `Country` hodnotu US). Výsledek dotazu si ulož do nové tabulky a použij ji jako vstup pro následující dotaz.
-1. Pro data z předchozího dotazu napiš dotaz na řádky ve městech (sloupec `City`) Washington a Philadelphia.
+* Dotaz na řádky z 13. listopadu 2017 (sloupec `Day` musí mít hodnotu 13).
+* Dotaz na řádky z 13. listopadu 2017 ze Spojených států amerických (sloupec `Day` musí mít hodnotu 13 a sloupec `Country` hodnotu US). Výsledek dotazu si ulož do nové tabulky a použij ji jako vstup pro následující dotaz.
+* Pro data z předchozího dotazu napiš dotaz na řádky ve městech (sloupec `City`) Washington a Philadelphia.
