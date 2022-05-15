@@ -26,5 +26,5 @@ prosím do začátku druhé lekce.
 | 8  | 25.4.2022 | Datum a čas | https://kodim.cz/czechitas/progr2-python/python-pro-data-1/datum | [ukol-08](./ukoly/ukol-08.md)
 | 9  | 2.5.2022  | Modul `pandas`, Načtení dat | https://stage.kodim.cz/kurzy/python-data-1/python-pro-data-1/nacteni-dat | [ukol-09](./ukoly/ukol-09.md)
 | 10 | 9.5.2022  | Základní dotazy v `pandas` | https://stage.kodim.cz/kurzy/python-data-1/python-pro-data-1/zakladni-dotazy | [ukol-10](./ukoly/ukol-10.md)
-| 11 | 16.5.2022 |  | | 
-| 12 | 23.5.2022 |  | | 
+| 11 | 16.5.2022 | Spojování a agregace v `pandas` | https://stage.kodim.cz/kurzy/python-data-1/python-pro-data-1/agregace-a-spojovani | [ukol-11](./ukoly/ukol-11.md)
+| 12 | 23.5.2022 | Vizualizace | https://stage.kodim.cz/kurzy/python-data-1/python-pro-data-1/vizualizace | 
