@@ -7,7 +7,7 @@ Stáhni si soubor [platy_2021_02.csv](data/platy_2021_02.csv) s informacemi o pl
 ```
 import requests
 
-r = requests.get("data/platy_2021_02.csv")
+r = requests.get("https://raw.githubusercontent.com/lutydlitatova/python-jaro-2022/main/ukoly/data/platy_2021_02.csv")
 open("platy_2021_02.csv", "wb").write(r.content)
 ```
 
@@ -30,7 +30,7 @@ Vrať se k práci se souborem [temperature.csv](data/temperature.csv), který ob
 ```
 import requests
 
-r = requests.get("data/temperature.csv")
+r = requests.get("https://raw.githubusercontent.com/lutydlitatova/python-jaro-2022/main/ukoly/data/temperature.csv")
 open("temperature.csv", "wb").write(r.content)
 ```
 
